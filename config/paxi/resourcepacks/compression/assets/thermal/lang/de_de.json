@@ -1,0 +1,29 @@
+{
+    "item.thermal.bronze_ingot": "CuSn₂₅ Bronzebarren",
+    "item.thermal.bronze_nugget": "CuSn₂₅ Bronzeklumpen",
+    "item.thermal.bronze_dust": "CuSn₂₅ Bronzestaub",
+    "item.thermal.bronze_gear": "CuSn₂₅ Bronzezahnrad",
+    "item.thermal.bronze_plate": "CuSn₂₅ Bronzeplatte",
+    "block.thermal.bronze_block": "CuSn₂₅ Bronzeblock",
+
+    "item.thermal.electrum_ingot": "AuAg Elektrumbarren",
+    "item.thermal.electrum_nugget": "AuAg Elektrumklumpen",
+    "item.thermal.electrum_dust": "AuAg Elektrumstaub",
+    "item.thermal.electrum_gear": "AuAg Elektrumzahnrad",
+    "item.thermal.electrum_plate": "AuAg Elektrumplatte",
+    "block.thermal.electrum_block": "AuAg Elektrumblock",
+
+    "item.thermal.invar_ingot": "FeNi₃₆ Invarbarren",
+    "item.thermal.invar_nugget": "FeNi₃₆ Invarklumpen",
+    "item.thermal.invar_dust": "FeNi₃₆ Invarstaub",
+    "item.thermal.invar_gear": "FeNi₃₆ Invarzahnrad",
+    "item.thermal.invar_plate": "FeNi₃₆ Invarplatte",
+    "block.thermal.invar_block": "FeNi₃₆ Invarblock",
+
+    "item.thermal.constantan_ingot": "CuNi₄₅ Konstantanbarren",
+    "item.thermal.constantan_nugget": "CuNi₄₅ Konstantanklumpen",
+    "item.thermal.constantan_dust": "CuNi₄₅ Konstantanstaub",
+    "item.thermal.constantan_gear": "CuNi₄₅ Konstantanzahnrad",
+    "item.thermal.constantan_plate": "CuNi₄₅ Konstantanplatte",
+    "block.thermal.constantan_block": "CuNi₄₅ Konstantanblock"
+}

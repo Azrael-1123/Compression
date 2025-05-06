@@ -1,0 +1,13 @@
+{
+    "item.botania.manasteel_ingot": "FeC-Ω₁ Manastahlbarren",
+    "item.botania.manasteel_nugget": "FeC-Ω₁ Manastahlklumpen",
+    "block.botania.manasteel_block": "FeC-Ω₁ Manastahlblock",
+
+    "item.botania.elementium_ingot": "SiO-Ω₂ Elementiumbarren",
+    "item.botania.elementium_nugget": "SiO-Ω₂ Elementiumklumpen",
+    "block.botania.elementium_block": "SiO-Ω₂ Elementiumblock",
+
+    "item.botania.terrasteel_ingot": "Cf☢SiO-Ω₃ Terrastahlbarren",
+    "item.botania.terrasteel_nugget": "Cf☢SiO-Ω₃ Terrastahlklumpen",
+    "block.botania.terrasteel_block": "Cf☢SiO-Ω₃ Terrastahlblock"
+}
